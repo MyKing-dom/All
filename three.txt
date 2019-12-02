@@ -1,0 +1,749 @@
+{
+  "root": {
+    "Result": [
+      {
+        "PartnerList": [
+          {
+            "Name": "高长虹",
+            "ShouldCapi": "60",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蔡玉国",
+            "ShouldCapi": "87",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "马富军",
+            "ShouldCapi": "87",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "钟惠军",
+            "ShouldCapi": "187.5",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "王珂",
+            "ShouldCapi": "175",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "罗泽辉",
+            "ShouldCapi": "110",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蒋文华",
+            "ShouldCapi": "820",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "彭天稳",
+            "ShouldCapi": "281.25",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "张冬梅",
+            "ShouldCapi": "116",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "深圳市远致创业投资有限公司",
+            "ShouldCapi": "100",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蒋丽珍",
+            "ShouldCapi": "76.25",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "惠州市壹冠华投资有限公司",
+            "ShouldCapi": "200",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "深圳市同心文鼎基金管理有限公司",
+            "ShouldCapi": "200",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "0",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          }
+        ],
+        "StockChangeList": [
+          {
+            "Name": "钟惠军",
+            "Before": "7.5%",
+            "After": "7.5%",
+            "ChangeDate": "2018-11-02 00:00:00"
+          },
+          {
+            "Name": "惠州市壹冠华投资有限公司",
+            "Before": "0%",
+            "After": "8%",
+            "ChangeDate": "2018-11-02 00:00:00"
+          },
+          {
+            "Name": "廖明珍",
+            "Before": "8%",
+            "After": "0%",
+            "ChangeDate": "2018-11-02 00:00:00"
+          },
+          {
+            "Name": "深圳市同心文鼎基金管理有限公司",
+            "Before": "8%",
+            "After": "8%",
+            "ChangeDate": "2018-11-02 00:00:00"
+          },
+          {
+            "Name": "王珂",
+            "Before": "7%",
+            "After": "7%",
+            "ChangeDate": "2018-11-02 00:00:00"
+          }
+        ],
+        "No": "6",
+        "Year": "2018年度报告",
+        "HasDetailInfo": "True",
+        "PublishDate": "2019-06-06 15:50:36"
+      },
+      {
+        "BasicInfoData": {
+          "RegNo": "440306106163467",
+          "CompanyName": "深圳市明华光电有限公司",
+          "ContactNo": "0755-29681058",
+          "PostCode": "518000",
+          "Address": "深圳市宝安区石岩街道塘头社区塘头第三工业园新辉工业区A栋5楼",
+          "EmailAddress": "yulin@minghualed.com",
+          "IsStockRightTransfer": "否",
+          "Status": "开业",
+          "HasWebSite": "否",
+          "HasNewStockOrByStock": "否",
+          "EmployeeCount": "企业选择不公示",
+          "HasProvideAssurance": "否"
+        },
+        "AssetsData": {
+          "TotalAssets": "企业选择不公示",
+          "TotalOwnersEquity": "企业选择不公示",
+          "GrossTradingIncome": "企业选择不公示",
+          "TotalProfit": "企业选择不公示",
+          "MainBusinessIncome": "企业选择不公示",
+          "NetProfit": "企业选择不公示",
+          "TotalTaxAmount": "企业选择不公示",
+          "TotalLiabilities": "企业选择不公示"
+        },
+        "PartnerList": [
+          {
+            "Name": "蔡玉国",
+            "ShouldCapi": "87",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "87",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "罗泽辉",
+            "ShouldCapi": "110",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "110",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "钟惠军",
+            "ShouldCapi": "187.5",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "187.5",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "彭天稳",
+            "ShouldCapi": "281.25",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "281.25",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蒋丽珍",
+            "ShouldCapi": "76.25",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "76.25",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "高长虹",
+            "ShouldCapi": "60",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "60",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "深圳市同心文鼎基金管理有限公司",
+            "ShouldCapi": "200",
+            "ShouldDate": "2015-06-15",
+            "ShouldType": "货币",
+            "RealCapi": "200",
+            "RealDate": "2015-06-15",
+            "RealType": "货币"
+          },
+          {
+            "Name": "王珂",
+            "ShouldCapi": "175",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "175",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "深圳市远致创业投资有限公司",
+            "ShouldCapi": "100",
+            "ShouldDate": "2016-02-01",
+            "ShouldType": "货币",
+            "RealCapi": "100",
+            "RealDate": "2016-02-01",
+            "RealType": "货币"
+          },
+          {
+            "Name": "张冬梅",
+            "ShouldCapi": "116",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "116",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蒋文华",
+            "ShouldCapi": "820",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "820",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "廖明珍",
+            "ShouldCapi": "200",
+            "ShouldDate": "2015-06-05",
+            "ShouldType": "货币",
+            "RealCapi": "200",
+            "RealDate": "2015-06-05",
+            "RealType": "货币"
+          },
+          {
+            "Name": "马富军",
+            "ShouldCapi": "87",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "87",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          }
+        ],
+        "No": "5",
+        "Year": "2017年度报告",
+        "HasDetailInfo": "True",
+        "PublishDate": "2018-05-16 17:12:20"
+      },
+      {
+        "BasicInfoData": {
+          "RegNo": "440306106163467",
+          "CompanyName": "深圳市明华光电有限公司",
+          "ContactNo": "0755-29681058",
+          "PostCode": "518000",
+          "Address": "深圳市宝安区石岩街道塘头社区塘头第三工业园新辉工业区A栋5楼",
+          "EmailAddress": "yulin@minghualed.com",
+          "IsStockRightTransfer": "否",
+          "Status": "开业",
+          "HasWebSite": "否",
+          "HasNewStockOrByStock": "否",
+          "EmployeeCount": "企业选择不公示",
+          "HasProvideAssurance": "否"
+        },
+        "AssetsData": {
+          "TotalAssets": "企业选择不公示",
+          "TotalOwnersEquity": "企业选择不公示",
+          "GrossTradingIncome": "企业选择不公示",
+          "TotalProfit": "企业选择不公示",
+          "MainBusinessIncome": "企业选择不公示",
+          "NetProfit": "企业选择不公示",
+          "TotalTaxAmount": "企业选择不公示",
+          "TotalLiabilities": "企业选择不公示"
+        },
+        "PartnerList": [
+          {
+            "Name": "蒋文华",
+            "ShouldCapi": "820",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "820",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蔡玉国",
+            "ShouldCapi": "87",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "87",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "罗泽辉",
+            "ShouldCapi": "110",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "110",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "深圳市同心文鼎基金管理有限公司",
+            "ShouldCapi": "200",
+            "ShouldDate": "2015-07-23",
+            "ShouldType": "货币",
+            "RealCapi": "200",
+            "RealDate": "2015-07-23",
+            "RealType": "货币"
+          },
+          {
+            "Name": "廖明珍",
+            "ShouldCapi": "200",
+            "ShouldDate": "2015-07-23",
+            "ShouldType": "货币",
+            "RealCapi": "200",
+            "RealDate": "2015-07-23",
+            "RealType": "货币"
+          },
+          {
+            "Name": "彭天稳",
+            "ShouldCapi": "281.25",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "281.25",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "深圳市远致创业投资有限公司",
+            "ShouldCapi": "100",
+            "ShouldDate": "2016-01-20",
+            "ShouldType": "货币",
+            "RealCapi": "100",
+            "RealDate": "2016-01-20",
+            "RealType": "货币"
+          },
+          {
+            "Name": "高长虹",
+            "ShouldCapi": "60",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "60",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "王珂",
+            "ShouldCapi": "175",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "175",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "钟惠军",
+            "ShouldCapi": "187.5",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "187.5",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "张冬梅",
+            "ShouldCapi": "116",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "116",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蒋丽珍",
+            "ShouldCapi": "76.25",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "76.25",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "马富军",
+            "ShouldCapi": "87",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "87",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          }
+        ],
+        "No": "4",
+        "Year": "2016年度报告",
+        "HasDetailInfo": "True",
+        "PublishDate": "2017-05-10 18:13:49"
+      },
+      {
+        "BasicInfoData": {
+          "RegNo": "440306106163467",
+          "CompanyName": "深圳市明华光电有限公司",
+          "ContactNo": "0755-29681058",
+          "PostCode": "518000",
+          "Address": "深圳市石岩镇塘头第三工业区新辉工业园A栋5楼",
+          "EmailAddress": "942024452@qq.com",
+          "IsStockRightTransfer": "否",
+          "Status": "开业",
+          "HasWebSite": "否",
+          "HasNewStockOrByStock": "否",
+          "EmployeeCount": "企业选择不公示",
+          "HasProvideAssurance": "否"
+        },
+        "AssetsData": {
+          "TotalAssets": "企业选择不公示",
+          "TotalOwnersEquity": "企业选择不公示",
+          "GrossTradingIncome": "企业选择不公示",
+          "TotalProfit": "企业选择不公示",
+          "MainBusinessIncome": "企业选择不公示",
+          "NetProfit": "企业选择不公示",
+          "TotalTaxAmount": "企业选择不公示",
+          "TotalLiabilities": "企业选择不公示"
+        },
+        "PartnerList": [
+          {
+            "Name": "廖明珍",
+            "ShouldCapi": "200",
+            "ShouldDate": "2015-07-22",
+            "ShouldType": "货币",
+            "RealCapi": "200",
+            "RealDate": "2015-07-22",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蔡玉国",
+            "ShouldCapi": "87",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "87",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "马富军",
+            "ShouldCapi": "87",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "87",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "钟惠军",
+            "ShouldCapi": "187.5",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "187.5",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "罗泽辉",
+            "ShouldCapi": "110",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "110",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蒋丽珍",
+            "ShouldCapi": "76.25",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "76.25",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "深圳市同心文鼎基金管理有限公司",
+            "ShouldCapi": "200",
+            "ShouldDate": "2015-07-22",
+            "ShouldType": "货币",
+            "RealCapi": "200",
+            "RealDate": "2015-07-22",
+            "RealType": "货币"
+          },
+          {
+            "Name": "张冬梅",
+            "ShouldCapi": "116",
+            "ShouldDate": "2014-11-02",
+            "ShouldType": "货币",
+            "RealCapi": "116",
+            "RealDate": "2014-11-02",
+            "RealType": "货币"
+          },
+          {
+            "Name": "唐于评",
+            "ShouldCapi": "281.25",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "281.25",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蒋文华",
+            "ShouldCapi": "820",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "820",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "王珂",
+            "ShouldCapi": "175",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "175",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "向圣仪",
+            "ShouldCapi": "60",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "60",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          }
+        ],
+        "No": "3",
+        "Year": "2015年度报告",
+        "HasDetailInfo": "True",
+        "PublishDate": "2016-06-14 14:37:25"
+      },
+      {
+        "BasicInfoData": {
+          "RegNo": "440306106163467",
+          "CompanyName": "深圳市明华光电有限公司",
+          "ContactNo": "0755-29681058",
+          "PostCode": "518000",
+          "Address": "深圳市石岩镇塘头第三工业区新辉工业园A栋5楼",
+          "EmailAddress": "jiangwenhua@minghualed.com",
+          "IsStockRightTransfer": "是",
+          "Status": "开业",
+          "HasWebSite": "否",
+          "HasNewStockOrByStock": "否",
+          "EmployeeCount": "企业选择不公示",
+          "HasProvideAssurance": "否"
+        },
+        "AssetsData": {
+          "TotalAssets": "企业选择不公示",
+          "TotalOwnersEquity": "企业选择不公示",
+          "GrossTradingIncome": "企业选择不公示",
+          "TotalProfit": "企业选择不公示",
+          "MainBusinessIncome": "企业选择不公示",
+          "NetProfit": "企业选择不公示",
+          "TotalTaxAmount": "企业选择不公示",
+          "TotalLiabilities": "企业选择不公示"
+        },
+        "PartnerList": [
+          {
+            "Name": "马富军",
+            "ShouldCapi": "87",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "87",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "张冬梅",
+            "ShouldCapi": "116",
+            "ShouldDate": "2014-09-15",
+            "ShouldType": "货币",
+            "RealCapi": "116",
+            "RealDate": "2014-09-15",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蒋文华",
+            "ShouldCapi": "820",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "820",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蔡玉国",
+            "ShouldCapi": "87",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "87",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "王珂",
+            "ShouldCapi": "175",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "175",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "唐于评",
+            "ShouldCapi": "281.25",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "281.25",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "向圣仪",
+            "ShouldCapi": "60",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "60",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "罗泽辉",
+            "ShouldCapi": "110",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "110",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "蒋丽珍",
+            "ShouldCapi": "76.25",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "76.25",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          },
+          {
+            "Name": "钟惠军",
+            "ShouldCapi": "187.5",
+            "ShouldDate": "2012-04-18",
+            "ShouldType": "货币",
+            "RealCapi": "187.5",
+            "RealDate": "2012-04-18",
+            "RealType": "货币"
+          }
+        ],
+        "StockChangeList": [
+          {
+            "Name": "罗泽辉",
+            "Before": "0.1%",
+            "After": "0.055%",
+            "ChangeDate": "2014-10-17 00:00:00"
+          },
+          {
+            "Name": "王文恒",
+            "Before": "0.1%",
+            "After": "0%",
+            "ChangeDate": "2014-02-13 00:00:00"
+          }
+        ],
+        "No": "2",
+        "Year": "2014年度报告",
+        "HasDetailInfo": "True",
+        "PublishDate": "2015-05-29 15:31:12"
+      },
+      {
+        "BasicInfoData": { "ContactNo": "不公示" },
+        "AssetsData": {
+          
+        },
+        "No": "1",
+        "Year": "2013年度报告",
+        "HasDetailInfo": "True",
+        "PublishDate": "2016-01-15 00:00:00"
+      }
+    ],
+    "Status": "200",
+    "Message": "查询成功"
+  }
+}
