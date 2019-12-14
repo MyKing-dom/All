@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  <filter>
+  	<filter-name>LoginFilter</filter-name>
+  	<filter-class>filter.LoginFilter</filter-class>
+  </filter>
+  <filter-mapping>
+  	<filter-name>LoginFilter</filter-name>
+  	<url-pattern>/*</url-pattern>
+  </filter-mapping>
+  <!-- user -->
+  <servlet>
+    <servlet-name>RegistServlet</servlet-name>
+    <servlet-class>web.user.RegistServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>RegistServlet</servlet-name>
+    <url-pattern>/user/web/RegistServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>CheckUnameServlet</servlet-name>
+    <servlet-class>web.user.CheckUnameServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CheckUnameServlet</servlet-name>
+    <url-pattern>/user/web/CheckUnameServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>CheckEmailServlet</servlet-name>
+    <servlet-class>web.user.CheckEmailServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CheckEmailServlet</servlet-name>
+    <url-pattern>/user/web/CheckEmailServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>CheckPhoneServlet</servlet-name>
+    <servlet-class>web.user.CheckPhoneServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CheckPhoneServlet</servlet-name>
+    <url-pattern>/user/web/CheckPhoneServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>web.user.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/user/web/LoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>LogoutServlet</servlet-name>
+    <servlet-class>web.user.LogoutServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LogoutServlet</servlet-name>
+    <url-pattern>/user/web/LogoutServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>ToIndexServlet</servlet-name>
+    <servlet-class>web.user.ToIndexServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ToIndexServlet</servlet-name>
+    <url-pattern>/user/web/ToIndexServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>ToDetailServlet</servlet-name>
+    <servlet-class>web.user.ToDetailServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ToDetailServlet</servlet-name>
+    <url-pattern>/user/web/ToDetailServlet</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>CollectServlet</servlet-name>
+    <servlet-class>web.user.CollectServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CollectServlet</servlet-name>
+    <url-pattern>/user/web/CollectServlet</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>AddToCardServlet</servlet-name>
+    <servlet-class>web.user.AddToCardServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AddToCardServlet</servlet-name>
+    <url-pattern>/user/web/AddToCardServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>ToCartServlet</servlet-name>
+    <servlet-class>web.user.ToCartServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ToCartServlet</servlet-name>
+    <url-pattern>/user/web/ToCartServlet</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>ChangeItemNumServlet</servlet-name>
+    <servlet-class>web.user.ChangeItemNumServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ChangeItemNumServlet</servlet-name>
+    <url-pattern>/user/web/ChangeItemNumServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>CartToOrderServlet</servlet-name>
+    <servlet-class>web.user.CartToOrderServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CartToOrderServlet</servlet-name>
+    <url-pattern>/user/web/CartToOrderServlet</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+  <servlet>
+    <servlet-name>DeleteToOrderServlet</servlet-name>
+    <servlet-class>web.user.DeleteToOrderServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DeleteToOrderServlet</servlet-name>
+    <url-pattern>/user/web/DeleteToOrderServlet</url-pattern>
+  </servlet-mapping>
+  
+  
+  <!-- admin -->
+  <servlet>
+    <servlet-name>ALoginServlet</servlet-name>
+    <servlet-class>web.admin.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ALoginServlet</servlet-name>
+    <url-pattern>/admin/web/LoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>ALogoutServlet</servlet-name>
+    <servlet-class>web.admin.LogoutServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ALogoutServlet</servlet-name>
+    <url-pattern>/admin/web/LogoutServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>AAllOrderServlet</servlet-name>
+    <servlet-class>web.admin.AllOrderServlet</servlet-class>
+  </servlet>
+  
+
+  <servlet-mapping>
+    <servlet-name>AAllOrderServlet</servlet-name>
+    <url-pattern>/admin/web/AllOrderServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>AllProductServlet</servlet-name>
+    <servlet-class>web.admin.AllProductServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>AllProductServlet</servlet-name>
+    <url-pattern>/admin/web/AllProductServlet</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+</web-app>
